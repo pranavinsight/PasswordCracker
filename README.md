@@ -74,7 +74,9 @@ The authors and distributors of this script assume no liability for any misuse o
 
 7.View the Hash: After confirming the disclaimer, the script will retrieve and display the stored hash of the password in Terminal.
 
-8.Exit the Script: After viewing the hash, the script will wait for you to press any key. Press any key to exit the script.
+8. Try any password: Refer to the 6th step of the "For Windows" section.
+
+9.Exit the Script: After viewing the hash, the script will wait for you to press any key. Press any key to exit the script.
 
 >[!NOTE]
 > # Important Notes:
