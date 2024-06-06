@@ -46,7 +46,7 @@ The authors and distributors of this script assume no liability for any misuse o
 
 7. **Exit the Script:** After viewing the confirmation message, the Command Prompt window will remain open. Press any key to exit the script.
 
-2.## For macOS & Linux (supports all distros)
+2. ## For macOS & Linux (supports all distros)
 
 1.Download the Files: Download the PasswordCracker_forMacOs.sh or PasswordCracker_forLinux.sh files from the GitHub repository. It depends on what operating system you are using.
 
