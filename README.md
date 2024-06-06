@@ -48,7 +48,7 @@ The authors and distributors of this script assume no liability for any misuse o
 
 ## For macOS & Linux (supports all distros)
 
-1.Download the Files: Download the mac_script.sh and linux_script.sh files from the GitHub repository.
+1.Download the Files: Download the PasswordCracker_forMacOs.sh or PasswordCracker_forLinux.sh files from the GitHub repository. It depends on what operating system you are using.
 
 2.Open Terminal: Launch Terminal on macOS or Linux.
 
