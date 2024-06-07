@@ -20,7 +20,7 @@ fi
 username="your_username"  # Modify this as needed
 
 # Retrieve the hashed password from /etc/shadow
-storedHash=$(sudo grep "$username" /etc/shadow | cut -d: -f2)
+storedHash=$(sudo grep "$sudousername" /etc/shadow | cut -d: -f2)
 
 if [ -z "$storedHash" ]; then
     echo "Failed to retrieve the hashed password from /etc/shadow."
